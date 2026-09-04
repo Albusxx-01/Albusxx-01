@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Satwik Parasar - AI/ML Engineer and Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#312E81"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" fill="url(#bg)" rx="28"/>
+  <circle cx="880" cy="40" r="110" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="60" cy="190" r="140" fill="rgba(255,255,255,0.04)"/>
+  <circle cx="930" cy="170" r="42" fill="rgba(255,255,255,0.06)"/>
+  <circle cx="800" cy="150" r="16" fill="rgba(167,139,250,0.20)"/>
+  <rect x="60" y="58" width="8" height="84" rx="4" fill="url(#accent)"/>
+  <text x="92" y="112" font-family="Segoe UI, Verdana, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF">Satwik Parasar</text>
+  <text x="94" y="150" font-family="Consolas, Menlo, monospace" font-size="20" fill="#C4B5FD">AI/ML Engineer · Backend Developer · Problem Solver</text>
+</svg>
