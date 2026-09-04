@@ -32,12 +32,19 @@
 
 | Project | Description |
 |---------|-------------|
-| **Multimodal RAG** | Retrieval-Augmented Generation pipeline combining text and image modalities for enhanced information retrieval |
-| **Sentiment Analysis** | Advanced sentiment classifier using RoBERTa & XLM-R transformer architectures |
-| **Code-Mixed ASR** | Automatic Speech Recognition system for handling code-mixed Indian languages |
-| **Edge AI SLM** | Deploying small language models optimized for edge devices |
-| **Crypto Volatility** | Predictive model for cryptocurrency market volatility analysis |
-| **Car Price Predictor** | ML-based car price estimation using regression techniques |
+| [**CinemaPulse — Movie Recommendation Web App**](https://github.com/Albusxx-01/CinemaPulse---Movie-Recommendation-Web-App) | Interactive movie recommendation app built with Streamlit using NLP, CountVectorizer, and cosine similarity |
+| [**Movie Recommendation System**](https://github.com/Albusxx-01/EDA-ML_Movie-Recommendation-System) | Content-based recommendation using NLP, Bag of Words, and cosine similarity |
+| [**Email/SMS Spam Classifier App**](https://github.com/Albusxx-01/ML_Email-SMS-Spam-Classifiers-App) | Spam detection app using Multinomial Naive Bayes classifier |
+| [**Email/SMS Spam Classifier — NLP Pipeline**](https://github.com/Albusxx-01/DA-ML_Email-SMS-Spam-Classifier) | End-to-end NLP pipeline: EDA, preprocessing, vectorization, and multi-model classifier comparison |
+| [**IPL Data Analysis (2008–2024)**](https://github.com/Albusxx-01/DA_IPL) | EDA of the Indian Premier League using Python, Pandas, and Seaborn |
+| [**Car Price Predictor (EDA)**](https://github.com/Albusxx-01/EDA_Car-Price-Predictor) | ML-based car price estimation using regression techniques |
+| [**Car Price Predictor (UI)**](https://github.com/Albusxx-01/Car-Price-Perdictor) | Frontend interface for the car price prediction model |
+| [**Spotify 2024 Analysis**](https://github.com/Albusxx-01/DA-Spotify) | Analysis of the most-streamed Spotify songs of 2024 — outlier removal and trend exploration |
+| [**Netflix Data Analysis**](https://github.com/Albusxx-01/DA_Netflix) | Insights on content distribution, genres, countries, directors, and ratings |
+| [**Titanic Survival Predictor**](https://github.com/Albusxx-01/DA-Titanic_ML) | Classification model for Titanic survival with preprocessing and feature engineering |
+| [**Adult Income (Census) EDA**](https://github.com/Albusxx-01/DA-Income_slip) | EDA on the Adult Income dataset — cleaning, transformation, and demographic insights |
+| [**E-commerce Purchase Analysis**](https://github.com/Albusxx-01/DA-Ecommerce) | EDA on e-commerce customer purchase data to uncover behavioral insights |
+| [**iReader — Bootstrap Website**](https://github.com/Albusxx-01/iReader-Bootstrap) | First Bootstrap website demo |
 
 ---
 
