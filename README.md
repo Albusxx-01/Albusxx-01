@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech Computer Science student with a passion for **Artificial Intelligence**, **Machine Learning**, and **Backend Engineering**
-- 🔬 Building intelligent systems — from NLP services handling 5000+ req/s to multimodal RAG pipelines
+- 🔬 Building intelligent systems — from multimodal RAG pipelines to code-mixed AI solutions
 - 🧠 Currently exploring **Edge AI**, **Small Language Models**, and **Code-Mixed ASR**
 - 💡 Strong believer in writing clean, efficient, and scalable code
 - 🌱 Always learning, always building
@@ -45,7 +45,6 @@
 
 | Project | Description |
 |---------|-------------|
-| **Indic NLP Service** | High-performance Go backend for spell-checking & code-mix suggestion across 11 Indic languages, targeting 5000 req/s |
 | **Multimodal RAG** | Retrieval-Augmented Generation pipeline combining text and image modalities for enhanced information retrieval |
 | **Sentiment Analysis** | Advanced sentiment classifier using RoBERTa & XLM-R transformer architectures |
 | **Code-Mixed ASR** | Automatic Speech Recognition system for handling code-mixed Indian languages |
@@ -78,7 +77,7 @@
   <a href="https://github.com/Albusxx-01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/Albusxx-01-a529b1214/">
+  <a href="https://www.linkedin.com/in/satwik-parasar-a529b1214/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:satwikxofficial@gmail.com">
@@ -91,4 +90,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Albusxx-01&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
-# Albusxx-01
