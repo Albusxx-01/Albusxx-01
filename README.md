@@ -48,6 +48,9 @@
 
 | Project | Description |
 |---------|-------------|
+| [**Portfolio**](https://github.com/Albusxx-01/Portfolio) | Personal portfolio site built with Streamlit — v1.0.0 |
+| [**SPSS Friedman Analysis Automation**](https://github.com/Albusxx-01/SPSS-friedmann-analysis-automation) | Automation tool to run Friedman test analysis with SPSS-style output |
+| [**NLP Sentiment Detection**](https://github.com/Albusxx-01/NLP_sentiment-detection.) | Fine-tuning a transformer for sentiment and sarcasm detection |
 | [**CinemaPulse — Movie Recommendation Web App**](https://github.com/Albusxx-01/CinemaPulse---Movie-Recommendation-Web-App) | Interactive movie recommendation app built with Streamlit using NLP, CountVectorizer, and cosine similarity |
 | [**Movie Recommendation System**](https://github.com/Albusxx-01/EDA-ML_Movie-Recommendation-System) | Content-based recommendation using NLP, Bag of Words, and cosine similarity |
 | [**Email/SMS Spam Classifier App**](https://github.com/Albusxx-01/ML_Email-SMS-Spam-Classifiers-App) | Spam detection app using Multinomial Naive Bayes classifier |
