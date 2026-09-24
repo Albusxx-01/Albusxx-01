@@ -54,23 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albusxx-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albusxx-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Albusxx-01&theme=tokyonight&no-frame=true&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 📫 Get In Touch
 
 <p align="center">
